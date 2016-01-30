@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Las Vegas]]></title>
         <description><![CDATA[Las Vegas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lasvegas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 16:14:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 16:20:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lasvegas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to Las Vegas. Home to some of the best casinos, hotels and shows about. Are you thinking of visiting Las Vegas? Well let us tempt you by giving you the complete low down on whats what and where to be seen this year in Las Vegas</p>]]></description>
-            <link>undefined4ceb4f58-660d-481f-bf3c-53d78f12c9d4/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ed492d-14cc-4521-a358-0d06565c74b7.jpg">]]></description>
+            <link>https://thegrid.ai/lasvegas/4ceb4f58-660d-481f-bf3c-53d78f12c9d4/index.html</link>
             <guid isPermaLink="false">4ceb4f58-660d-481f-bf3c-53d78f12c9d4</guid>
-            <pubDate>Sat, 30 Jan 2016 16:13:31 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 16:19:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
