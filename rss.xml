@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Las Vegas]]></title>
+        <description><![CDATA[Las Vegas]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jan 2016 16:14:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to Las Vegas. Home to some of the best casinos, hotels and shows about. Are you thinking of visiting Las Vegas? Well let us tempt you by giving you the complete low down on whats what and where to be seen this year in Las Vegas</p>]]></description>
+            <link>undefined4ceb4f58-660d-481f-bf3c-53d78f12c9d4/index.html</link>
+            <guid isPermaLink="false">4ceb4f58-660d-481f-bf3c-53d78f12c9d4</guid>
+            <pubDate>Sat, 30 Jan 2016 16:13:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
